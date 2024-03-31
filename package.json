@@ -1,7 +1,7 @@
 {
-  "name": "jwt-auth",
+  "name": "auth-sys",
   "version": "1.0.0",
-  "description": "authentification using JSON Web Token",
+  "description": "authentication using bcrypt",
   "main": "index.js",
   "scripts": {
     "dev":"nodemon server.js",
